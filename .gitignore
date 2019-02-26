@@ -1,1 +1,7 @@
 node_modules
+**/*.json
+**/*.md
+**/.solution.json
+**/tests/*
+*/**/.gitignore
+**/Cargo.toml
